@@ -11,8 +11,7 @@ The dataset used in this project consists of images of five different types of s
 <br>The images are divided into training and validation sets
 
 # Model Architecture
-<br>The CNN model used for image classification consists of the following layers:
-
+The CNN model used for image classification consists of the following layers:
 <br>Conv2D layer with 32 filters and 3x3 kernel size
 MaxPooling2D layer with 2x2 pool size<br>
 Conv2D layer with 64 filters and 3x3 kernel size<br>
