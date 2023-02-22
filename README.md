@@ -1,4 +1,4 @@
-# Image-Classification
+# Image-Classification Using CNN(Convolutional Neural Network)
 This is a project for image classification using a Convolutional Neural Network (CNN) with TensorFlow and Keras. The goal of this project is to classify images of different  products.
 
 ## Dataset
