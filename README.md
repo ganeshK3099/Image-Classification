@@ -1,5 +1,5 @@
 # Image-Classification
-This is a project for image classification using a Convolutional Neural Network (CNN) with TensorFlow and Keras. The goal of this project is to classify images of different shampoos and hair care products.
+This is a project for image classification using a Convolutional Neural Network (CNN) with TensorFlow and Keras. The goal of this project is to classify images of different  products.
 
 ## Dataset
 The dataset used in this project consists of images of five different types of shampoos and hair care products:
